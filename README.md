@@ -1,6 +1,6 @@
+# Excel-Sales-Analytics
 In my project for AtliQ Hardware FY 2022, I created analytical reports, including a Customer Performance Report that identified top sales segments, and a Market Performance vs. Target report etc. Using advanced Excel features like Pivot Tables and DAX.
 
-# Excel-Sales-Analytics
 ## Sales Report :
 
 
